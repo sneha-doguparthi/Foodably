@@ -1,0 +1,14 @@
+/* blog section */
+.blog__posts {
+  list-style: none;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (minmax(10%, 1fr))[2];
+      grid-template-columns: repeat(2, minmax(10%, 1fr));
+  -ms-grid-rows: (minmax(10%, 1fr))[2];
+      grid-template-rows: repeat(2, minmax(10%, 1fr));
+  padding: 0;
+  margin: 2rem 0 0 0;
+  grid-gap: 1.75rem;
+}
+/*# sourceMappingURL=blog-section-landing.component.css.map */

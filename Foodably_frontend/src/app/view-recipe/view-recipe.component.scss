@@ -1,0 +1,68 @@
+/* top section with banner and label */
+
+
+/* top section with banner and label */
+
+#section-one {
+    /*background: url("assets/img/stock-img/dan-gold-4_jhDO54BYg-unsplash.jpg") center/cover no-repeat border-box;*/
+    background-position: left 0% bottom 30%;
+    width: 100%;
+    height: 100%;
+    padding-top: 4rem;
+    // padding-left: 2rem;
+    // padding-right: 2rem;
+    // margin: 4rem auto;
+}
+
+.video {
+    height: auto;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin-top: 1.5rem;
+    padding-left: 20%;
+    padding-right: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section {
+    margin-top: -0.6em;
+}
+
+section#section-one .grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: repeat(6, fit-content(1fr));
+    grid-gap: 2rem;
+    grid-auto-flow: row dense;
+}
+
+.box {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    border: 0.1em;
+    border-radius: 0.2em;
+}
+
+.s1-a {
+    grid-column: span 2;
+}
+
+.s1-b {
+    grid-column: 2 / 3;
+    grid-row: span 4;
+    padding-top: 0rem;
+    padding-right: 1rem;
+}
+
+.s1-d {
+    padding-left: 1rem;
+    padding-top: 0rem;
+    justify-content: flex-start;
+}

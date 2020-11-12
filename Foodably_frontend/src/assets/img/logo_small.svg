@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="33px" viewBox="0 0 41 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Logo/Icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Header" transform="translate(-60.000000, -13.000000)">
+            <g id="Logo" transform="translate(60.000000, 13.000000)">
+                <g id="Logo/Icon">
+                    <g id="Group" transform="translate(20.500000, 16.500000) scale(-1, -1) rotate(90.000000) translate(-20.500000, -16.500000) translate(4.000000, -4.000000)">
+                        <rect id="Rectangle" fill="#C60100" x="8.5" y="0.5" width="8" height="8"></rect>
+                        <g id="Horizontal" transform="translate(0.500000, 0.500000)">
+                            <rect id="Rectangle" fill="#486824" x="0" y="32" width="8" height="8"></rect>
+                            <polygon id="Rectangle" fill="#882426" transform="translate(4.000000, 28.000000) rotate(90.000000) translate(-4.000000, -28.000000) " points="2.02977211e-31 24 8 24 8 32 -2.69853312e-17 32"></polygon>
+                            <polygon id="Rectangle" fill="#CDBEA7" transform="translate(4.000000, 20.000000) rotate(90.000000) translate(-4.000000, -20.000000) " points="2.02977211e-31 16 8 16 8 24 -2.69853312e-17 24"></polygon>
+                            <polygon id="Rectangle" fill="#323030" transform="translate(4.000000, 12.000000) rotate(90.000000) translate(-4.000000, -12.000000) " points="2.02977211e-31 8 8 8 8 16 -2.69853312e-17 16"></polygon>
+                            <polygon id="Rectangle" fill="#C29544" transform="translate(4.000000, 4.000000) rotate(90.000000) translate(-4.000000, -4.000000) " points="3.38987711e-14 -5.55111512e-17 8 -5.55111512e-17 8 8 3.35681489e-14 8"></polygon>
+                        </g>
+                        <g id="Tall" transform="translate(8.500000, 32.500000)">
+                            <rect id="Rectangle" fill="#4C3F54" x="16" y="0" width="8" height="8"></rect>
+                            <rect id="Rectangle" fill="#D13526" x="8" y="0" width="8" height="8"></rect>
+                            <rect id="Rectangle" fill="#F2BF58" x="0" y="0" width="8" height="8"></rect>
+                        </g>
+                        <g id="Middle" transform="translate(8.500000, 16.500000)">
+                            <rect id="Rectangle" fill="#805A3B" transform="translate(4.000000, 4.000000) scale(1, -1) translate(-4.000000, -4.000000) " x="0" y="0" width="8" height="8"></rect>
+                            <rect id="Rectangle" fill="#FD974E" transform="translate(12.000000, 4.000000) scale(1, -1) translate(-12.000000, -4.000000) " x="8" y="0" width="8" height="8"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,27 @@
+<section id="welcome-banner">
+    <div id="label-container">
+        <div id="label-light">
+            <h1 class="header-1">Who told you can't cook?</h1>
+        </div>
+        <div id="label-dark"></div>
+    </div>
+</section>
+<section id="search">
+    <div>
+        <div id="search-field">
+            <a routerLink="/search">
+                <img src="assets/img/loop.svg" alt="Loop icon">
+            </a>
+            <input type="text" name="recipe" placeholder="What do you want to try today?">
+        </div>
+        <div>
+            <button id="advanced-search" class="backquote" (click)="onSearch()">Advanced search</button>
+        </div>
+    </div>
+    <div class="divider"></div>
+</section>
+<section id="recipes-and-articles">
+    <app-recipe-section *ngFor="let recipeSection of recipeSections" [recipeSection]="recipeSection">
+    </app-recipe-section>
+    <app-blog-section-landing [blogSection]="blogSection"></app-blog-section-landing>
+</section>

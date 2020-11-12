@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="27px" viewBox="0 0 40 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Icons/Flags/India</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="1.63636364" width="40" height="27"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer" transform="translate(-858.000000, -361.000000)">
+            <g id="Flags" transform="translate(803.000000, 361.000000)">
+                <g id="Icons/Flags/India" transform="translate(55.000000, 0.000000)">
+                    <g id="Flag" transform="translate(0.000000, -1.636364)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Rectangle" fill="#FF9933" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)" x="0" y="10.6363636" width="40" height="9"></rect>
+                        <rect id="Rectangle" fill="#128807" fill-rule="nonzero" mask="url(#mask-2)" x="0" y="19.6363636" width="40" height="9"></rect>
+                        <g id="Group" mask="url(#mask-2)">
+                            <g transform="translate(6.400000, 0.000000)">
+                                <ellipse id="Oval" fill="#000088" fill-rule="nonzero" cx="13.6311605" cy="15.5365366" rx="3.55948106" ry="3.60575444"></ellipse>
+                                <ellipse id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="13.6311605" cy="15.5365366" rx="3.11454593" ry="3.15503514"></ellipse>
+                                <ellipse id="Oval" fill="#000088" fill-rule="nonzero" cx="13.6311605" cy="15.5365366" rx="1" ry="1"></ellipse>
+                                <g id="d" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(3.022909, 8.225310)">
+                                    <g id="c" transform="translate(5.561330, 4.232214)" fill="#000088" fill-rule="nonzero">
+                                        <g id="b" transform="translate(2.946541, 1.927076)">
+                                            <g id="a" transform="translate(1.981731, 0.544091)">
+                                                <circle id="Oval" transform="translate(3.206550, 1.019661) rotate(7.500000) translate(-3.206550, -1.019661) " cx="3.20654992" cy="1.01966087" r="1"></circle>
+                                                <path d="M0.118649369,3.76288128 L0.2254338,1.8698602 C0.2254338,1.8698602 0.118649369,0.968421587 0.118649369,0.968421587 C0.118649369,0.968421587 0.0118649369,1.8698602 0.0118649369,1.8698602 L0.118649369,3.76288128 Z" id="Path"></path>
+                                            </g>
+                                            <g id="a-link" transform="translate(3.663350, 3.230662) rotate(15.000000) translate(-3.663350, -3.230662) translate(1.263350, 0.776117)">
+                                                <g id="a" transform="translate(0.240727, 0.249860)">
+                                                    <circle id="Oval" transform="translate(3.206550, 1.019661) rotate(7.500000) translate(-3.206550, -1.019661) " cx="3.20654992" cy="1.01966087" r="1"></circle>
+                                                    <path d="M0.118649369,3.76288128 L0.2254338,1.8698602 C0.2254338,1.8698602 0.118649369,0.968421587 0.118649369,0.968421587 C0.118649369,0.968421587 0.0118649369,1.8698602 0.0118649369,1.8698602 L0.118649369,3.76288128 Z" id="Path"></path>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="b-link" transform="translate(5.476228, 5.960991) rotate(30.000000) translate(-5.476228, -5.960991) translate(1.476228, 2.279173)">
+                                            <g id="b" transform="translate(0.108855, 0.253292)">
+                                                <g id="a" transform="translate(1.981731, 0.544091)">
+                                                    <circle id="Oval" transform="translate(3.206550, 1.019661) rotate(7.500000) translate(-3.206550, -1.019661) " cx="3.20654992" cy="1.01966087" r="1"></circle>
+                                                    <path d="M0.118649369,3.76288128 L0.2254338,1.8698602 C0.2254338,1.8698602 0.118649369,0.968421587 0.118649369,0.968421587 C0.118649369,0.968421587 0.0118649369,1.8698602 0.0118649369,1.8698602 L0.118649369,3.76288128 Z" id="Path"></path>
+                                                </g>
+                                                <g id="a-link" transform="translate(3.663350, 3.230662) rotate(15.000000) translate(-3.663350, -3.230662) translate(1.263350, 0.776117)">
+                                                    <g id="a" transform="translate(0.240727, 0.249860)">
+                                                        <circle id="Oval" transform="translate(3.206550, 1.019661) rotate(7.500000) translate(-3.206550, -1.019661) " cx="3.20654992" cy="1.01966087" r="1"></circle>
+                                                        <path d="M0.118649369,3.76288128 L0.2254338,1.8698602 C0.2254338,1.8698602 0.118649369,0.968421587 0.118649369,0.968421587 C0.118649369,0.968421587 0.0118649369,1.8698602 0.0118649369,1.8698602 L0.118649369,3.76288128 Z" id="Path"></path>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="c-link" transform="translate(8.288064, 8.859105) rotate(60.000000) translate(-8.288064, -8.859105) translate(2.288064, 2.722741)" fill="#000088" fill-rule="nonzero">
+                                        <g id="c" transform="translate(0.793570, 0.241614)">
+                                            <g id="b" transform="translate(2.946541, 1.927076)">
+                                                <g id="a" transform="translate(1.981731, 0.544091)">
+                                                    <circle id="Oval" transform="translate(3.206550, 1.019661) rotate(7.500000) translate(-3.206550, -1.019661) " cx="3.20654992" cy="1.01966087" r="1"></circle>
+                                                    <path d="M0.118649369,3.76288128 L0.2254338,1.8698602 C0.2254338,1.8698602 0.118649369,0.968421587 0.118649369,0.968421587 C0.118649369,0.968421587 0.0118649369,1.8698602 0.0118649369,1.8698602 L0.118649369,3.76288128 Z" id="Path"></path>
+                                                </g>
+                                                <g id="a-link" transform="translate(3.663350, 3.230662) rotate(15.000000) translate(-3.663350, -3.230662) translate(1.263350, 0.776117)">
+                                                    <g id="a" transform="translate(0.240727, 0.249860)">
+                                                        <circle id="Oval" transform="translate(3.206550, 1.019661) rotate(7.500000) translate(-3.206550, -1.019661) " cx="3.20654992" cy="1.01966087" r="1"></circle>
+                                                        <path d="M0.118649369,3.76288128 L0.2254338,1.8698602 C0.2254338,1.8698602 0.118649369,0.968421587 0.118649369,0.968421587 C0.118649369,0.968421587 0.0118649369,1.8698602 0.0118649369,1.8698602 L0.118649369,3.76288128 Z" id="Path"></path>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <g id="b-link" transform="translate(5.476228, 5.960991) rotate(30.000000) translate(-5.476228, -5.960991) translate(1.476228, 2.279173)">
+                                                <g id="b" transform="translate(0.108855, 0.253292)">
+                                                    <g id="a" transform="translate(1.981731, 0.544091)">
+                                                        <circle id="Oval" transform="translate(3.206550, 1.019661) rotate(7.500000) translate(-3.206550, -1.019661) " cx="3.20654992" cy="1.01966087" r="1"></circle>
+                                                        <path d="M0.118649369,3.76288128 L0.2254338,1.8698602 C0.2254338,1.8698602 0.118649369,0.968421587 0.118649369,0.968421587 C0.118649369,0.968421587 0.0118649369,1.8698602 0.0118649369,1.8698602 L0.118649369,3.76288128 Z" id="Path"></path>
+                                                    </g>
+                                                    <g id="a-link" transform="translate(3.663350, 3.230662) rotate(15.000000) translate(-3.663350, -3.230662) translate(1.263350, 0.776117)">
+                                                        <g id="a" transform="translate(0.240727, 0.249860)">
+                                                            <circle id="Oval" transform="translate(3.206550, 1.019661) rotate(7.500000) translate(-3.206550, -1.019661) " cx="3.20654992" cy="1.01966087" r="1"></circle>
+                                                            <path d="M0.118649369,3.76288128 L0.2254338,1.8698602 C0.2254338,1.8698602 0.118649369,0.968421587 0.118649369,0.968421587 C0.118649369,0.968421587 0.0118649369,1.8698602 0.0118649369,1.8698602 L0.118649369,3.76288128 Z" id="Path"></path>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="d-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(13.000691, 12.922693) rotate(120.000000) translate(-13.000691, -12.922693) translate(4.200691, 3.513602)">
+                                    <g id="d" transform="translate(0.103778, 0.233205)" fill="#000088" fill-rule="nonzero">
+                                        <g id="c" transform="translate(5.561330, 4.232214)">
+                                            <g id="b" transform="translate(2.946541, 1.927076)">
+                                                <g id="a" transform="translate(1.981731, 0.544091)">
+                                                    <circle id="Oval" transform="translate(3.206550, 1.019661) rotate(7.500000) translate(-3.206550, -1.019661) " cx="3.20654992" cy="1.01966087" r="1"></circle>
+                                                    <path d="M0.118649369,3.76288128 L0.2254338,1.8698602 C0.2254338,1.8698602 0.118649369,0.968421587 0.118649369,0.968421587 C0.118649369,0.968421587 0.0118649369,1.8698602 0.0118649369,1.8698602 L0.118649369,3.76288128 Z" id="Path"></path>
+                                                </g>
+                                                <g id="a-link" transform="translate(3.663350, 3.230662) rotate(15.000000) translate(-3.663350, -3.230662) translate(1.263350, 0.776117)">
+                                                    <g id="a" transform="translate(0.240727, 0.249860)">
+                                                        <circle id="Oval" transform="translate(3.206550, 1.019661) rotate(7.500000) translate(-3.206550, -1.019661) " cx="3.20654992" cy="1.01966087" r="1"></circle>
+                                                        <path d="M0.118649369,3.76288128 L0.2254338,1.8698602 C0.2254338,1.8698602 0.118649369,0.968421587 0.118649369,0.968421587 C0.118649369,0.968421587 0.0118649369,1.8698602 0.0118649369,1.8698602 L0.118649369,3.76288128 Z" id="Path"></path>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <g id="b-link" transform="translate(5.476228, 5.960991) rotate(30.000000) translate(-5.476228, -5.960991) translate(1.476228, 2.279173)">
+                                                <g id="b" transform="translate(0.108855, 0.253292)">
+                                                    <g id="a" transform="translate(1.981731, 0.544091)">
+                                                        <circle id="Oval" transform="translate(3.206550, 1.019661) rotate(7.500000) translate(-3.206550, -1.019661) " cx="3.20654992" cy="1.01966087" r="1"></circle>
+                                                        <path d="M0.118649369,3.76288128 L0.2254338,1.8698602 C0.2254338,1.8698602 0.118649369,0.968421587 0.118649369,0.968421587 C0.118649369,0.968421587 0.0118649369,1.8698602 0.0118649369,1.8698602 L0.118649369,3.76288128 Z" id="Path"></path>
+                                                    </g>
+                                                    <g id="a-link" transform="translate(3.663350, 3.230662) rotate(15.000000) translate(-3.663350, -3.230662) translate(1.263350, 0.776117)">
+                                                        <g id="a" transform="translate(0.240727, 0.249860)">
+                                                            <circle id="Oval" transform="translate(3.206550, 1.019661) rotate(7.500000) translate(-3.206550, -1.019661) " cx="3.20654992" cy="1.01966087" r="1"></circle>
+                                                            <path d="M0.118649369,3.76288128 L0.2254338,1.8698602 C0.2254338,1.8698602 0.118649369,0.968421587 0.118649369,0.968421587 C0.118649369,0.968421587 0.0118649369,1.8698602 0.0118649369,1.8698602 L0.118649369,3.76288128 Z" id="Path"></path>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(8.288064, 8.859105) rotate(60.000000) translate(-8.288064, -8.859105) translate(2.288064, 2.722741)">
+                                            <g id="c" transform="translate(0.793570, 0.241614)">
+                                                <g id="b" transform="translate(2.946541, 1.927076)">
+                                                    <g id="a" transform="translate(1.981731, 0.544091)">
+                                                        <circle id="Oval" transform="translate(3.206550, 1.019661) rotate(7.500000) translate(-3.206550, -1.019661) " cx="3.20654992" cy="1.01966087" r="1"></circle>
+                                                        <path d="M0.118649369,3.76288128 L0.2254338,1.8698602 C0.2254338,1.8698602 0.118649369,0.968421587 0.118649369,0.968421587 C0.118649369,0.968421587 0.0118649369,1.8698602 0.0118649369,1.8698602 L0.118649369,3.76288128 Z" id="Path"></path>
+                                                    </g>
+                                                    <g id="a-link" transform="translate(3.663350, 3.230662) rotate(15.000000) translate(-3.663350, -3.230662) translate(1.263350, 0.776117)">
+                                                        <g id="a" transform="translate(0.240727, 0.249860)">
+                                                            <circle id="Oval" transform="translate(3.206550, 1.019661) rotate(7.500000) translate(-3.206550, -1.019661) " cx="3.20654992" cy="1.01966087" r="1"></circle>
+                                                            <path d="M0.118649369,3.76288128 L0.2254338,1.8698602 C0.2254338,1.8698602 0.118649369,0.968421587 0.118649369,0.968421587 C0.118649369,0.968421587 0.0118649369,1.8698602 0.0118649369,1.8698602 L0.118649369,3.76288128 Z" id="Path"></path>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                                <g id="b-link" transform="translate(5.476228, 5.960991) rotate(30.000000) translate(-5.476228, -5.960991) translate(1.476228, 2.279173)">
+                                                    <g id="b" transform="translate(0.108855, 0.253292)">
+                                                        <g id="a" transform="translate(1.981731, 0.544091)">
+                                                            <circle id="Oval" transform="translate(3.206550, 1.019661) rotate(7.500000) translate(-3.206550, -1.019661) " cx="3.20654992" cy="1.01966087" r="1"></circle>
+                                                            <path d="M0.118649369,3.76288128 L0.2254338,1.8698602 C0.2254338,1.8698602 0.118649369,0.968421587 0.118649369,0.968421587 C0.118649369,0.968421587 0.0118649369,1.8698602 0.0118649369,1.8698602 L0.118649369,3.76288128 Z" id="Path"></path>
+                                                        </g>
+                                                        <g id="a-link" transform="translate(3.663350, 3.230662) rotate(15.000000) translate(-3.663350, -3.230662) translate(1.263350, 0.776117)">
+                                                            <g id="a" transform="translate(0.240727, 0.249860)">
+                                                                <circle id="Oval" transform="translate(3.206550, 1.019661) rotate(7.500000) translate(-3.206550, -1.019661) " cx="3.20654992" cy="1.01966087" r="1"></circle>
+                                                                <path d="M0.118649369,3.76288128 L0.2254338,1.8698602 C0.2254338,1.8698602 0.118649369,0.968421587 0.118649369,0.968421587 C0.118649369,0.968421587 0.0118649369,1.8698602 0.0118649369,1.8698602 L0.118649369,3.76288128 Z" id="Path"></path>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="d-link" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(16.339035, 16.359679) rotate(-120.000000) translate(-16.339035, -16.359679) translate(7.539035, 6.950588)">
+                                    <g id="d" transform="translate(0.249443, 0.125283)" fill="#000088" fill-rule="nonzero">
+                                        <g id="c" transform="translate(5.561330, 4.232214)">
+                                            <g id="b" transform="translate(2.946541, 1.927076)">
+                                                <g id="a" transform="translate(1.981731, 0.544091)">
+                                                    <circle id="Oval" transform="translate(3.206550, 1.019661) rotate(7.500000) translate(-3.206550, -1.019661) " cx="3.20654992" cy="1.01966087" r="1"></circle>
+                                                    <path d="M0.118649369,3.76288128 L0.2254338,1.8698602 C0.2254338,1.8698602 0.118649369,0.968421587 0.118649369,0.968421587 C0.118649369,0.968421587 0.0118649369,1.8698602 0.0118649369,1.8698602 L0.118649369,3.76288128 Z" id="Path"></path>
+                                                </g>
+                                                <g id="a-link" transform="translate(3.663350, 3.230662) rotate(15.000000) translate(-3.663350, -3.230662) translate(1.263350, 0.776117)">
+                                                    <g id="a" transform="translate(0.240727, 0.249860)">
+                                                        <circle id="Oval" transform="translate(3.206550, 1.019661) rotate(7.500000) translate(-3.206550, -1.019661) " cx="3.20654992" cy="1.01966087" r="1"></circle>
+                                                        <path d="M0.118649369,3.76288128 L0.2254338,1.8698602 C0.2254338,1.8698602 0.118649369,0.968421587 0.118649369,0.968421587 C0.118649369,0.968421587 0.0118649369,1.8698602 0.0118649369,1.8698602 L0.118649369,3.76288128 Z" id="Path"></path>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <g id="b-link" transform="translate(5.476228, 5.960991) rotate(30.000000) translate(-5.476228, -5.960991) translate(1.476228, 2.279173)">
+                                                <g id="b" transform="translate(0.108855, 0.253292)">
+                                                    <g id="a" transform="translate(1.981731, 0.544091)">
+                                                        <circle id="Oval" transform="translate(3.206550, 1.019661) rotate(7.500000) translate(-3.206550, -1.019661) " cx="3.20654992" cy="1.01966087" r="1"></circle>
+                                                        <path d="M0.118649369,3.76288128 L0.2254338,1.8698602 C0.2254338,1.8698602 0.118649369,0.968421587 0.118649369,0.968421587 C0.118649369,0.968421587 0.0118649369,1.8698602 0.0118649369,1.8698602 L0.118649369,3.76288128 Z" id="Path"></path>
+                                                    </g>
+                                                    <g id="a-link" transform="translate(3.663350, 3.230662) rotate(15.000000) translate(-3.663350, -3.230662) translate(1.263350, 0.776117)">
+                                                        <g id="a" transform="translate(0.240727, 0.249860)">
+                                                            <circle id="Oval" transform="translate(3.206550, 1.019661) rotate(7.500000) translate(-3.206550, -1.019661) " cx="3.20654992" cy="1.01966087" r="1"></circle>
+                                                            <path d="M0.118649369,3.76288128 L0.2254338,1.8698602 C0.2254338,1.8698602 0.118649369,0.968421587 0.118649369,0.968421587 C0.118649369,0.968421587 0.0118649369,1.8698602 0.0118649369,1.8698602 L0.118649369,3.76288128 Z" id="Path"></path>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(8.288064, 8.859105) rotate(60.000000) translate(-8.288064, -8.859105) translate(2.288064, 2.722741)">
+                                            <g id="c" transform="translate(0.793570, 0.241614)">
+                                                <g id="b" transform="translate(2.946541, 1.927076)">
+                                                    <g id="a" transform="translate(1.981731, 0.544091)">
+                                                        <circle id="Oval" transform="translate(3.206550, 1.019661) rotate(7.500000) translate(-3.206550, -1.019661) " cx="3.20654992" cy="1.01966087" r="1"></circle>
+                                                        <path d="M0.118649369,3.76288128 L0.2254338,1.8698602 C0.2254338,1.8698602 0.118649369,0.968421587 0.118649369,0.968421587 C0.118649369,0.968421587 0.0118649369,1.8698602 0.0118649369,1.8698602 L0.118649369,3.76288128 Z" id="Path"></path>
+                                                    </g>
+                                                    <g id="a-link" transform="translate(3.663350, 3.230662) rotate(15.000000) translate(-3.663350, -3.230662) translate(1.263350, 0.776117)">
+                                                        <g id="a" transform="translate(0.240727, 0.249860)">
+                                                            <circle id="Oval" transform="translate(3.206550, 1.019661) rotate(7.500000) translate(-3.206550, -1.019661) " cx="3.20654992" cy="1.01966087" r="1"></circle>
+                                                            <path d="M0.118649369,3.76288128 L0.2254338,1.8698602 C0.2254338,1.8698602 0.118649369,0.968421587 0.118649369,0.968421587 C0.118649369,0.968421587 0.0118649369,1.8698602 0.0118649369,1.8698602 L0.118649369,3.76288128 Z" id="Path"></path>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                                <g id="b-link" transform="translate(5.476228, 5.960991) rotate(30.000000) translate(-5.476228, -5.960991) translate(1.476228, 2.279173)">
+                                                    <g id="b" transform="translate(0.108855, 0.253292)">
+                                                        <g id="a" transform="translate(1.981731, 0.544091)">
+                                                            <circle id="Oval" transform="translate(3.206550, 1.019661) rotate(7.500000) translate(-3.206550, -1.019661) " cx="3.20654992" cy="1.01966087" r="1"></circle>
+                                                            <path d="M0.118649369,3.76288128 L0.2254338,1.8698602 C0.2254338,1.8698602 0.118649369,0.968421587 0.118649369,0.968421587 C0.118649369,0.968421587 0.0118649369,1.8698602 0.0118649369,1.8698602 L0.118649369,3.76288128 Z" id="Path"></path>
+                                                        </g>
+                                                        <g id="a-link" transform="translate(3.663350, 3.230662) rotate(15.000000) translate(-3.663350, -3.230662) translate(1.263350, 0.776117)">
+                                                            <g id="a" transform="translate(0.240727, 0.249860)">
+                                                                <circle id="Oval" transform="translate(3.206550, 1.019661) rotate(7.500000) translate(-3.206550, -1.019661) " cx="3.20654992" cy="1.01966087" r="1"></circle>
+                                                                <path d="M0.118649369,3.76288128 L0.2254338,1.8698602 C0.2254338,1.8698602 0.118649369,0.968421587 0.118649369,0.968421587 C0.118649369,0.968421587 0.0118649369,1.8698602 0.0118649369,1.8698602 L0.118649369,3.76288128 Z" id="Path"></path>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

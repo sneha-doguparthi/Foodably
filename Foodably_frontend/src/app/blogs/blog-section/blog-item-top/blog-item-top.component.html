@@ -1,0 +1,15 @@
+<li class="top-blog__post">
+  <a>
+    <img [src]='blogItem.imagePath' class="top-blog__image">
+    <h4 class="header-4">{{ blogItem.title }}</h4>
+    <p class="paragraph">{{ blogItem.preview }} </p>
+    <div class="divider-tiled__small"></div>
+    <div class="top-blog__caption">
+      <app-author-item [author]="blogItem.author"></app-author-item>
+      <div class="blog__comment">
+        <img src="assets/img/comment.svg" alt="Comment icon">
+        <h6 class="backquote__small">{{ blogItem.comments }}</h6>
+      </div>
+    </div>
+  </a>
+</li>

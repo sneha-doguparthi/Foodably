@@ -1,0 +1,41 @@
+<section id="search">
+    <div>
+        <div id="search-field">
+            <a routerLink="/search">
+                <img src="assets/img/loop.svg" alt="Loop icon">
+            </a>
+            <input type="text" name="recipe" placeholder="What do you want to try today?">
+        </div>
+        <div>
+            <button id="advanced-search" class="backquote" (click)="onSearch()">Advanced search</button>
+        </div>
+    </div>
+</section>
+
+<section>
+    <section id="recipes-and-articles">
+        <div>
+            Showing 12 of 40 results
+            <span style="float: right;">
+                Sort By: 
+                <span class="sort" style="color: #4C4054;">
+                    <a routerLink="/search" class="backquote">Rating</a>
+                    <div class="dropdown-sort" >
+                        <a routerLink="/search" class="main-sort">Rating</a>
+                        <a routerLink="/search" class="main-sort">Likes</a>
+                        <a routerLink="/search" class="main-sort">Relavance</a>
+                        <a routerLink="/search" class="main-sort">Preparation Time</a>
+                        <a routerLink="/search" class="main-sort">Release Date</a>
+                    </div>
+            </span>
+            </span>
+        </div>
+        <app-recipe-section *ngFor="let recipeSection of recipeSections" [recipeSection]="recipeSection">
+        </app-recipe-section>
+        <app-recipe-section *ngFor="let recipeSection of recipeSections" [recipeSection]="recipeSection">
+        </app-recipe-section>
+        <div class="button red-back">
+            <h4 class="button-title">More</h4>
+        </div>
+    </section>
+</section>

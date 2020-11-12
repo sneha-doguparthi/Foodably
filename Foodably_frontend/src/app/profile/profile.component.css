@@ -1,0 +1,70 @@
+.profile__container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  margin-top: 6rem;
+  margin-bottom: 2rem;
+}
+
+.profile {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 4rem;
+  align-items: center;
+}
+
+.profile--info {
+  display: block;
+  margin-left: 3rem;
+}
+.profile--info .paragraph {
+  width: 60%;
+}
+
+/* profile tabls */
+.profile__tabs {
+  display: flex;
+  width: 100%;
+}
+
+.profile__tab {
+  cursor: pointer;
+  height: 3.125rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  width: fit-content;
+  border: none;
+  margin: 0;
+  border-right: 1px solid white;
+  opacity: 0.5;
+  background: #4C3F54;
+}
+
+.active {
+  opacity: 1;
+}
+
+/* profile avatar */
+.profile-placeholder {
+  font-size: 5rem;
+}
+
+.profile--template {
+  display: inline-flex;
+  align-items: center;
+}
+
+.profile--background {
+  position: relative;
+  height: 10rem;
+  width: 10rem;
+}
+.profile--background h3 {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+}
+
+/*# sourceMappingURL=profile.component.css.map */

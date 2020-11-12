@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,gCAAgC;AAChC,AAAA,qBAAqB,CAAC;EACpB,QAAQ,EAAE,MAAM;CACjB;;AAED,AAAA,0BAA0B,CAAC;EACzB,UAAU,EAAE,IAAI;EAChB,aAAa,EAAE,IAAI;EACnB,UAAU,EAAE,IAAI;EAChB,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,2BAA2B;EAClD,OAAO,EAAE,CAAC;EACV,QAAQ,EAAE,OAAO;CAClB",
+    "sources": [
+        "blog-section.component.scss"
+    ],
+    "names": [],
+    "file": "blog-section.component.css"
+}

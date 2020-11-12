@@ -1,0 +1,15 @@
+<h2 class="header-2">{{ blogSection.header }}</h2>
+<ul class="main-articles-blog__posts">
+  <div [class.blog__post--featured]="i === 0 || i % 6 === 0"
+    *ngFor="let blog of blogSection.blogArticles; let i = index">
+    <ng-container
+      *ngIf="i === 0 || i % 6 === 0; then featuredArticle; else regularArticle">
+    </ng-container>
+    <ng-template #featuredArticle>
+      <app-blog-item-featured [blogItem]="blog" (click)="onBlogSelected(i)"></app-blog-item-featured>
+    </ng-template>
+    <ng-template #regularArticle>
+      <app-blog-item [blogItem]="blog" (click)="onBlogSelected(i)"></app-blog-item>
+    </ng-template>
+  </div>
+</ul>

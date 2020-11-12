@@ -1,0 +1,24 @@
+<div class="profile__container">
+  <section>
+      <div class="profile" >
+        <div class="profile--template">
+          <div appRandomBackground class="profile--background">
+            <h3 class="profile-placeholder author-placeholder">R</h3>
+          </div>
+        </div>
+        <div class="profile--info">
+          <h1 class="header-1">Random Name</h1>
+          <p class="paragraph">Biker, risk-taker, drummer, reclaimed wood collector and recent OCAD grad. Making at the sweet spot between art and computer science to create not just a logo, but a feeling. I prefer clear logic to decoration</p>
+        </div>
+      </div>
+  </section>
+  <section>
+      <div class="profile__tabs">
+        <button class="profile__tab button-title">Create recipe</button>
+        <button class="profile__tab button-title">Post Blog</button>
+        <button class="profile__tab button-title" routerLink="shoppinglist" routerLinkActive="active"> <i class="fas fa-clipboard-list"></i>Shopping List</button>
+      </div>
+      <div class="divider"></div>
+      <router-outlet></router-outlet>
+  </section>
+</div>

@@ -1,0 +1,82 @@
+@import "../../styles/abstracts/mixins";
+@import "../../styles/abstracts/variables";
+
+.profile__container {
+  @include center-content();
+  width: 60%;
+  margin: {
+    top: 6rem;
+    bottom: 2rem;
+  }
+}
+
+.profile {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 4rem;
+  align-items: center;
+}
+
+.profile--info {
+  display: block;
+  margin-left: 3rem;
+
+  .paragraph {
+    width: 60%;
+  }
+}
+
+/* profile tabls */
+
+.profile__tabs {
+  display: flex;
+  width: 100%;
+}
+
+.profile__tab {
+
+  cursor: pointer;
+  height: 3.125rem;
+
+  padding: {
+    left: 1.5rem;
+    right: 1.5rem;
+  }
+
+  width: fit-content;
+  border: none;
+  margin: 0;
+  border-right: 1px solid white;
+  opacity: 0.5;
+  background: map-get($colors, purple);
+}
+
+.active {
+  opacity: 1;
+}
+
+/* profile avatar */
+
+.profile-placeholder {
+  font-size: 5rem;
+}
+
+.profile--template {
+  display: inline-flex;
+  align-items: center;
+}
+
+.profile--background {
+
+  position: relative;
+  height: 10rem;
+  width: 10rem;
+
+  h3 {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+  }
+}

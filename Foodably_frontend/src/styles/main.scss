@@ -1,0 +1,57 @@
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/placeholders";
+@import "abstracts/variables";
+
+@import "components/buttons";
+@import "components/dividers";
+
+@import "base/typography";
+
+@import "layout/grid";
+
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,500,600,700,800&display=swap&subset=cyrillic');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,700&display=swap&subset=cyrillic');
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  height: 100%;
+}
+
+app-root {
+  display: grid;
+  grid-template-rows: 4rem auto fit-content(69rem);
+}
+
+/* section */
+
+.section {
+  margin-top: 2rem;
+}
+
+/* background */
+
+.red-back {
+  background: map-get($colors, red);
+}
+
+.yellow-back {
+  background: map-get($colors, yellow);
+}
+
+.green-back {
+  background: map-get($colors, green);
+}
+
+.purple-back {
+  background: map-get($colors, purple);
+}

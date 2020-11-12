@@ -1,0 +1,19 @@
+/* divider */
+
+.divider {
+    height: 1px;
+    width: 100%;
+    border-bottom: 1px solid #CDBEA7;
+}
+
+.divider--vertical {
+    height: 100%;
+    width: 1px;
+    border-left: 1px solid #CDBEA7;
+}
+
+.divider-tiled__small {
+    background: url("../assets/img/divider_tiled_small.svg") center/cover repeat border-box;
+    height: 0.75rem;
+    width: 100%;
+}

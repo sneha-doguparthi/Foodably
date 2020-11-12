@@ -1,0 +1,17 @@
+/* main articles - blog posts */
+.blog__post--featured {
+  grid-row: 2 span;
+}
+
+.main-articles-blog__posts {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  list-style: none;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (minmax(10%, 1fr))[2];
+      grid-template-columns: repeat(2, minmax(10%, 1fr));
+  padding: 0;
+  grid-gap: 1.75rem;
+}
+/*# sourceMappingURL=blog-section.component.css.map */

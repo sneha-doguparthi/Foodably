@@ -1,0 +1,10 @@
+<li class="main-articles-blog__post--featured">
+    <a>
+      <img [src]='blogItem.imagePath' class="blog__image--featured">
+      <div class="blog__post">
+        <h3 class="header-3">{{ blogItem.title }}</h3>
+        <app-author-item [author]="blogItem.author"></app-author-item>
+        <p class="paragraph">{{ blogItem.preview }} </p>
+      </div>
+    </a>
+</li>

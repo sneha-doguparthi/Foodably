@@ -1,0 +1,67 @@
+/* top article card */
+.top-blog__post {
+  background-color: white;
+  -webkit-box-shadow: 4px 10px 25px -16px #4C4054;
+          box-shadow: 4px 10px 25px -16px #4C4054;
+  overflow: hidden;
+}
+
+.top-blog__post .header-4 {
+  margin: 1rem 1rem 0.625rem 1rem;
+}
+
+.top-blog__post .paragraph {
+  margin: 0 1rem 0.8rem 1rem;
+}
+
+.top-blog__post > a {
+  text-decoration: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  height: 100%;
+  cursor: pointer;
+}
+
+.top-blog__image {
+  height: 14rem;
+  width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.top-blog__caption {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 1.375rem 1.5rem 0.875rem 1rem;
+}
+
+.blog__comment {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.blog__comment .backquote__small {
+  text-decoration: none;
+}
+
+.blog__comment > h6 {
+  color: #212121;
+  margin: 0 auto 0 0.5rem;
+}
+/*# sourceMappingURL=blog-item-top.component.css.map */

@@ -1,0 +1,43 @@
+/* featured blog post */
+
+.main-articles-blog__post--featured {
+  //grid-row: 2 span; -- does not work if component imported in the grid
+  box-shadow: 4px 10px 25px -16px #4C4054;
+}
+
+.main-articles-blog__post--featured > a {
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  cursor: pointer;
+}
+
+.blog__image--featured {
+  // background: url("../images/rachel-park-hrlvr2ZlUNk-unsplash.jpg") center/cover no-repeat border-box;
+  width: 100%;
+  height: 15rem;
+  object-fit: cover;
+}
+
+.main-articles-blog__post--featured .blog__post {
+  margin: 1rem;
+}
+
+/* blog article */
+
+.blog__post > a {
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.blog__post .header-3 {
+  margin-bottom: 0.625rem;
+}
+
+.blog__post .paragraph {
+  margin: 0;
+  margin-top: 0.625rem;
+}

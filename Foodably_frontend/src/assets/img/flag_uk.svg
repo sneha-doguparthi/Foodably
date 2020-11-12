@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="27px" viewBox="0 0 39 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Icons/Flags/UK</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 0 27 39 27 39 0"></polygon>
+        <path d="M26.52,13.5 L53.04,13.5 L53.04,27 L26.52,13.5 Z M26.52,13.5 L26.52,27 L0,27 L26.52,13.5 Z M26.52,13.5 L0,13.5 L0,0 L26.52,13.5 Z M26.52,13.5 L26.52,0 L53.04,0 L26.52,13.5 Z" id="path-3"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer" transform="translate(-803.000000, -361.000000)">
+            <g id="Flags" transform="translate(803.000000, 361.000000)">
+                <g id="Icons/Flags/UK">
+                    <g id="Flag">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Path" fill="#00247D" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)" points="-8.0808 2.4044732 44.9733464 29.43 47.346 24.5955268 -5.70814644 -2.43"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)" points="44.9733464 -2.43 -8.0808 24.5955268 -5.70814644 29.43 47.346 2.4044732"></polygon>
+                        <g id="Clipped" mask="url(#mask-2)">
+                            <g transform="translate(-7.020000, 0.000000)">
+                                <mask id="mask-4" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <g id="Shape" stroke="none" fill="none"></g>
+                                <polygon id="Path" stroke="none" fill="#CF142B" fill-rule="nonzero" mask="url(#mask-4)" points="-0.790673637 1.60996894 52.2493264 28.6099689 53.8306736 25.3900311 0.790673637 -1.60996894"></polygon>
+                                <polygon id="Path" stroke="none" fill="#CF142B" fill-rule="nonzero" mask="url(#mask-4)" points="52.2493264 -1.60996894 -0.790673637 25.3900311 0.790673637 28.6099689 53.8306736 1.60996894"></polygon>
+                            </g>
+                        </g>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)" points="15.2568 0 15.2568 27 24.0084 27 24.0084 0"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)" points="-7.02 18.09 46.02 18.09 46.02 9.18 -7.02 9.18"></polygon>
+                        <polygon id="Path" fill="#CF142B" fill-rule="nonzero" mask="url(#mask-2)" points="16.848 0 16.848 27 22.152 27 22.152 0"></polygon>
+                        <polygon id="Path" fill="#CF142B" fill-rule="nonzero" mask="url(#mask-2)" points="-7.02 16.2 46.02 16.2 46.02 10.8 -7.02 10.8"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

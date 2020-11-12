@@ -1,0 +1,43 @@
+/* author template */
+
+.author--template {
+  display: inline-flex;
+  align-items: center;
+}
+
+.author--background {
+  position: relative;
+  height: 2.25rem;
+  width: 2.25rem;
+}
+
+.author-container {
+  margin: 0 0 0 1rem;
+}
+
+.author-placeholder {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+}
+
+/* spacing adjustments */
+
+// written by text
+.header-4 .paragraph {
+    color: #646260;
+}
+
+// date
+h6.paragraph {
+  margin: 0.375rem 0 0 0;
+  color: #9E9E9E;
+}
+
+.author-separator {
+  width: 15.5rem;
+  margin-top: 1rem;
+  background-position: left;
+}

@@ -1,0 +1,10 @@
+.article-image {
+  width: 100%;
+}
+
+.article-image__caption {
+  color: #646260;
+  margin: 0.75rem 0 0 0;
+  text-align: center;
+}
+/*# sourceMappingURL=article-image.component.css.map */

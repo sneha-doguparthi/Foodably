@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="264px" height="12px" viewBox="0 0 264 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Divider/Tiled small</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cards/Recipe-" transform="translate(0.000000, -312.000000)">
+            <g id="Divider/Tiled-small" transform="translate(0.000000, 312.000000)">
+                <g id="Group">
+                    <rect id="Rectangle" fill="#882426" x="36" y="0" width="12" height="12"></rect>
+                    <rect id="Rectangle" fill="#CDBEA7" x="24" y="0" width="12" height="12"></rect>
+                    <rect id="Rectangle" fill="#323030" x="12" y="0" width="12" height="12"></rect>
+                    <rect id="Rectangle" fill="#C29544" x="0" y="0" width="12" height="12"></rect>
+                    <rect id="Rectangle" fill="#882426" x="180" y="0" width="12" height="12"></rect>
+                    <rect id="Rectangle" fill="#CDBEA7" x="168" y="0" width="12" height="12"></rect>
+                    <rect id="Rectangle" fill="#323030" x="144" y="0" width="12" height="12"></rect>
+                    <rect id="Rectangle" fill="#C29544" x="132" y="0" width="12" height="12"></rect>
+                    <rect id="Rectangle" fill="#FD974E" x="120" y="0" width="12" height="12"></rect>
+                    <rect id="Rectangle" fill="#C60100" x="108" y="0" width="12" height="12"></rect>
+                    <rect id="Rectangle" fill="#805A3B" x="96" y="0" width="12" height="12"></rect>
+                    <rect id="Rectangle" fill="#FD974E" x="228" y="0" width="12" height="12"></rect>
+                    <rect id="Rectangle" fill="#C60100" x="204" y="0" width="12" height="12"></rect>
+                    <rect id="Rectangle" fill="#805A3B" x="156" y="0" width="12" height="12"></rect>
+                    <rect id="Rectangle" fill="#4C3F54" transform="translate(54.000000, 6.000000) scale(-1, 1) translate(-54.000000, -6.000000) " x="48" y="0" width="12" height="12"></rect>
+                    <rect id="Rectangle" fill="#D13526" transform="translate(66.000000, 6.000000) scale(-1, 1) translate(-66.000000, -6.000000) " x="60" y="0" width="12" height="12"></rect>
+                    <rect id="Rectangle" fill="#F2BF58" transform="translate(78.000000, 6.000000) scale(-1, 1) translate(-78.000000, -6.000000) " x="72" y="0" width="12" height="12"></rect>
+                    <rect id="Rectangle" fill="#486824" transform="translate(90.000000, 6.000000) scale(-1, 1) translate(-90.000000, -6.000000) " x="84" y="0" width="12" height="12"></rect>
+                    <rect id="Rectangle" fill="#4C3F54" transform="translate(198.000000, 6.000000) scale(-1, 1) translate(-198.000000, -6.000000) " x="192" y="0" width="12" height="12"></rect>
+                    <rect id="Rectangle" fill="#D13526" transform="translate(246.000000, 6.000000) scale(-1, 1) translate(-246.000000, -6.000000) " x="240" y="0" width="12" height="12"></rect>
+                    <rect id="Rectangle" fill="#F2BF58" transform="translate(222.000000, 6.000000) scale(-1, 1) translate(-222.000000, -6.000000) " x="216" y="0" width="12" height="12"></rect>
+                    <rect id="Rectangle" fill="#486824" transform="translate(258.000000, 6.000000) scale(-1, 1) translate(-258.000000, -6.000000) " x="252" y="0" width="12" height="12"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

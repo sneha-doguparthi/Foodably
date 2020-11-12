@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,cAAc,CAAC;EACb,KAAK,EAAE,IAAI;CACZ;;AAED,AAAA,uBAAuB,CAAC;EACtB,KAAK,EAAE,OAAO;EACd,MAAM,EAAE,aAAa;EACrB,UAAU,EAAE,MAAM;CACnB",
+    "sources": [
+        "article-image.component.scss"
+    ],
+    "names": [],
+    "file": "article-image.component.css"
+}

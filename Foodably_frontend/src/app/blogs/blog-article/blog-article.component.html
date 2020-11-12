@@ -1,0 +1,36 @@
+<div class="content-container">
+  <section class="article__section">
+    <h1 class="header-1">{{ blog.title }}</h1>
+    <div class="article__author">
+      <app-author [author]="blog.author" [date]="blog.createDate"></app-author>
+    </div>
+  </section>
+  <img *ngIf="blog.imagePath !== null" [src]="blog.imagePath" class="article__image--main" alt="Main image of the article">
+  <article class="article__section article__section--container">
+    <section *ngFor="let paragraph of blog.paragraphs"
+         [ngSwitch]="paragraph.getType()">
+      <ng-template ngSwitchCase="image">
+        <app-article-image [image]="paragraph.image"></app-article-image>
+      </ng-template>
+      <ng-template ngSwitchCase="text">
+        <h2 *ngIf="paragraph.header !== null" class="header-2">{{ paragraph.header }}</h2>
+        <p class="paragraph" *ngFor="let content of paragraph.content">
+          {{ content }}
+        </p>
+      </ng-template>
+      <ng-template ngSwitchDefault>
+        <p>Check paragraph type</p>
+      </ng-template>
+    </section>
+  </article>
+  <div *ngIf="blog.relatedRecipes !== null" class="article__section">
+    <div class="divider"></div>
+    <app-recipe-section [recipeSection]="blog.relatedRecipes"></app-recipe-section>
+    <div class="divider"></div>
+  </div>
+  <div class="article__section article__comment--section">
+    <div class="button red-back">
+      <h4 class="button-title">See comments ({{ blog.comments }})</h4>
+    </div>
+  </div>
+</div>

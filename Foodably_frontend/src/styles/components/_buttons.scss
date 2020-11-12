@@ -1,0 +1,41 @@
+/* button */
+
+.button {
+  height: 3.125rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  width: fit-content;
+  min-width: 10.35rem;
+  border: none;
+  margin: 0 auto;
+
+  &[disabled] {
+    opacity: 0.5;
+  }
+}
+
+/* google button */
+
+#button-google {
+  display: inline-flex;
+  align-items: center;
+  width: 100%;
+  background: white;
+  height: 3.25rem;
+  border-radius: 2px;
+  box-shadow: 0 0 2px 0 rgba(0,0,0,0.12);
+}
+
+#button-google--logo {
+  margin-left: 1rem;
+}
+
+#button-google--text {
+  color: rgba(33,33,33,0.54);
+  font-family: Montserrat, sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  text-align: center;
+  width: 100%;
+  margin: 0;
+}

@@ -1,0 +1,9 @@
+<div class="section">
+  <h2 class="header-2">{{ blogSection.header }}</h2>
+  <ul class="blog__posts">
+    <app-blog-item
+      *ngFor="let blog of blogSection.blogs"
+      [blogItem]="blog">
+    </app-blog-item>
+  </ul>
+</div>

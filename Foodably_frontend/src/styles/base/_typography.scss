@@ -1,0 +1,84 @@
+@import "../abstracts/variables";
+
+/* text configuration */
+
+.header {
+  font-family: 'Playfair Display', sans-serif;
+  margin: 0;
+}
+
+.text-normal {
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.header-1 {
+  @extend .header;
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.header-2 {
+  @extend .header;
+  font-size: 2.25rem;
+  font-weight: 600;
+}
+
+.header-3 {
+  @extend .header;
+  font-size: 1.75rem;
+  font-weight: 500;
+  color: map-get($colors, dark);
+}
+
+.header-4 {
+  font-size: 1.125rem;
+  font-weight: 500;
+  color: map-get($colors, dark);
+  margin: 0;
+}
+
+.header-4 a {
+  text-decoration: none;
+  color: map-get($colors, dark);
+}
+
+.author-placeholder {
+  font-weight: 700;
+  color: white;
+  font-size: 1.25rem;
+}
+
+.button-title {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 3.125rem;
+  text-align: center;
+}
+
+.backquote {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.25rem;
+  font-weight: 400;
+  text-decoration: underline;
+  color: map-get($colors, link-yellow);
+}
+
+.backquote__small {
+  @extend .text-normal;
+  color: map-get($colors, link-yellow);
+  text-decoration: underline;
+}
+
+.paragraph {
+  @extend .text-normal;
+  color: map-get($colors, dark);
+}
+
+.caption {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #4C3F54;
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,oBAAoB;AAEpB,AAAA,cAAc,CAAC;EACb,UAAU,EAAE,IAAI;EAChB,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,2BAA2B;EAClD,kBAAkB,EAAE,wBAAwB;EAC5C,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,UAAU;EAClB,eAAe,EAAE,OAAO;CACzB",
+    "sources": [
+        "recipe-section.component.scss"
+    ],
+    "names": [],
+    "file": "recipe-section.component.css"
+}

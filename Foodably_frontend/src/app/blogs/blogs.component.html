@@ -1,0 +1,19 @@
+<section id="top-articles">
+  <div id="top-articles--content">
+    <h1 class="header-1">Blogs</h1>
+    <h2 class="header-2">Top stories</h2>
+    <ul class="top-blog__posts">
+      <app-blog-item-top
+        *ngFor="let topBlog of topBlogs"
+        [topBlogItem]="topBlog"></app-blog-item-top>
+    </ul>
+  </div>
+</section>
+<section>
+  <div id="main-articles--content">
+    <app-blog-section></app-blog-section>
+    <div class="button red-back">
+      <h4 class="button-title">More</h4>
+    </div>
+  </div>
+</section>
