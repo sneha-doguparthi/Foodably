@@ -11,8 +11,8 @@ The web site for creating and searching food recipes. Foodably also offers blog 
 
 * [Mykhailo Herasimov](my590678@dal.ca) - *(Lead Designer)*
 * [Muppidi Shashank Reddy](sh375383@dal.ca) - *(Developer)*
-* [Sneha Jayavardhini Doguparthi](sn536318@dal.ca) - *(Code Integrator)*
-* [Raviteja Kase](rv270985@dal.ca) - *(Lead Developer)*
+* [Sneha Jayavardhini Doguparthi](sn536318@dal.ca) - *(Lead Developer)*
+* [Raviteja Kase](rv270985@dal.ca) - *(Code Integrator)*
 * [Ujwal Vikas Chanda](uj225642@dal.ca) - *(Tester)*
 
 ## Built With
